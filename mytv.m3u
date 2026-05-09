@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Egnatia" tvg-logo="https://imgur.com" tvg-id="egnatiatv.gr" tvg-chno="53" tvg-country="GR" group-title="Greece",Egnatia
+https://streams.ovh
+#EXTINF:-1 tvg-name="Euro" tvg-logo="https://imgur.com" tvg-id="eurotv.gr" tvg-chno="54" tvg-country="GR" group-title="Greece",Euro
+https://bozztv.com
+#EXTINF:-1 tvg-name="Gnomi" tvg-logo="https://imgur.com" tvg-id="gnomitv.gr" tvg-chno="55" tvg-country="GR" group-title="Greece",Gnomi
+https://streams.ovh
+#EXTINF:-1 tvg-name="Pella" tvg-logo="https://imgur.com" tvg-id="pellatv.gr" tvg-chno="55" tvg-country="GR" group-title="Greece",Pella
+https://streams.ovh
+#EXTINF:-1 tvg-name="Pontos" tvg-logo="https://imgur.com" tvg-id="pontostv.gr" tvg-chno="55" tvg-country="GR" group-title="Greece",Pontos
+https://rtmp.win
+#EXTINF:-1 tvg-name="TV 100" tvg-logo="https://imgur.com" tvg-id="TV100.gr" tvg-chno="56" tvg-country="GR" group-title="Greece",TV 100
+https://gwebstream.eu
+#EXTINF:-1 tvg-name="Vergina" tvg-logo="https://imgur.com" tvg-id="verginatv.gr" tvg-chno="57" tvg-country="GR" group-title="Greece",Vergina
+https://verginanews.gr
+#EXTINF:-1 tvg-name="Best TV" tvg-logo="https://imgur.com" tvg-id="besttv.gr" tvg-chno="61" tvg-country="GR" group-title="Greece",Best TV
+https://siliconweb.com
+#EXTINF:-1 tvg-name="Hlektra" tvg-logo="https://imgur.com" tvg-id="hlektra.gr" tvg-chno="62" tvg-country="GR" group-title="Greece",Hlektra
+https://bozztv.com
+#EXTINF:-1 tvg-name="Ionian Channel" tvg-logo="https://imgur.com" tvg-id="ioniantv.gr" tvg-chno="63" tvg-country="GR" group-title="Greece",Ionian Channel
+https://ioniantv.gr
+#EXTINF:-1 tvg-name="Lepanto" tvg-logo="https://imgur.com" tvg-id="lepantortv.gr" tvg-chno="64" tvg-country="GR" group-title="Greece",Lepanto
+https://crystalweb.net
+#EXTINF:-1 tvg-name="Lychnos" tvg-logo="https://imgur.com" tvg-id="lychnostv.gr" tvg-chno="65" tvg-country="GR" group-title="Greece",Lychnos
+https://mental-media.gr
+#EXTINF:-1 tvg-name="Mesogeios TV" tvg-logo="https://imgur.com" tvg-id="mesogeiostv.gr" tvg-chno="66" tvg-country="GR" group-title="Greece",Mesogeios TV
+https://rtmp.win
+#EXTINF:-1 tvg-name="Epsilon" tvg-logo="https://imgur.com" tvg-id="epsilon.gr" tvg-chno="71" tvg-country="GR" group-title="Greece",Epsilon
+https://streams.gr
+#EXTINF:-1 tvg-name="Star Central Greece" tvg-logo="https://imgur.com" tvg-id="digitalstar.gr" tvg-chno="72" tvg-country="GR" group-title="Greece",Star Central Greece
+https://akamaized.net
+#EXTINF:-1 tvg-name="91NRG" tvg-logo="https://imgur.com" tvg-id="nrg91.gr" tvg-chno="73" tvg-country="GR" group-title="Greece",91NRG
+http://nrg91.gr
+#EXTINF:-1 tvg-name="Thessalia" tvg-logo="https://imgur.com" tvg-id="thessaliatv.gr" tvg-chno="82" tvg-country="GR" group-title="Greece",Thessalia
+https://thessaliachannel.gr
+#EXTINF:-1 tvg-name="TRT" tvg-logo="https://imgur.com" tvg-id="trttv.gr" tvg-chno="83" tvg-country="GR" group-title="Greece",TRT
+https://hellasnet.tv
+#EXTINF:-1 tvg-name="Acheloos" tvg-logo="https://imgur.com" tvg-id="acheloostv.gr" tvg-chno="91" tvg-country="GR" group-title="Greece",Acheloos
+https://streamings.gr
+#EXTINF:-1 tvg-name="ART TV" tvg-logo="https://imgur.com" tvg-id="arttv.gr" tvg-chno="92" tvg-country="GR" group-title="Greece",ART TV
+https://streams.ovh
